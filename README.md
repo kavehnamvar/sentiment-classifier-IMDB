@@ -6,7 +6,9 @@ Later on we want to put this model into production on AWS using EC2 and S3 servi
 
 This is a supervised learning task with IMDB dataset with 50,000 rows of labeled data. The data can be downloaded through here:
 
-https://raw.githubusercontent.com/laxmimerit/All-CSV-ML-Data-Files-Download/master/IMDB-Dataset.csv
+https://github.com/laxmimerit/All-CSV-ML-Data-Files-Download
+
+The "IMDB-Dataset.csv" is our intended dataset here. 
 
 70% of the data will be used for training and the rest for testing.
 
